@@ -11,7 +11,7 @@
 [![Issue Stats](https://img.shields.io/issuestats/i/github/codebuddies/codebuddies.svg?maxAge=2592000&style=flat-square)]()
 [![Issue Stats](https://img.shields.io/issuestats/p/github/codebuddies/codebuddies.svg?maxAge=2592000&style=flat-square)]()
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Greenkeeper badge](https://badges.greenkeeper.io/meonBot/codebuddies.svg)](https://greenkeeper.io/)
 # FAQ
 
 ## What is CodeBuddies?
